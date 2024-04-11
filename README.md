@@ -14,7 +14,7 @@ In this paper, we propose two decoding methods for c-VEP-BCI with minimal calibr
 
 [https://github.com/Miao-yining/few-shot-c-VEP-BCI/issues/1#issue-2237557014](https://github.com/Miao-yining/few-shot-c-VEP-BCI/assets/56295473/7031e186-321b-4971-ab53-67e51d40ca4c)
 
-![video2](https://github.com/Miao-yining/few-shot-c-VEP-BCI/blob/main/TransferLearning.mp4)
+[https://github.com/Miao-yining/few-shot-c-VEP-BCI/blob/main/TransferLearning.mp4](https://github.com/Miao-yining/few-shot-c-VEP-BCI/assets/56295473/81a12de1-dccc-44ec-8d1b-d5a11dc7c646)
 
 ## The Schematic view of the proposed methods
 
