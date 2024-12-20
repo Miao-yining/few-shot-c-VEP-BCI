@@ -57,7 +57,7 @@ In this paper, we propose two decoding methods for c-VEP-BCI with minimal calibr
 1. All data are restored as PICKLE format, with information of channel names, stimulus sequences and EEG responses involved. 
 2. The subject numbers between offline and online experiments do NOT correspond to each other, while those within the experiments correspond. 
 3. We apologize for missing some online-experiment data collected from S3 due to force majeure factors.
-4. Whole data can be downloaded on https://zenodo.org/records/10804455. For convenient use with processing codes, data for offline-experiments are aquired on [https://drive.google.com/drive/folders/1UzkpeC4nHZUtiK4g5u_7QFsoBwdB1MvB?usp=sharing](https://drive.google.com/drive/folders/1UzkpeC4nHZUtiK4g5u_7QFsoBwdB1MvB?usp=drive_link)
+4. Whole data is available on https://zenodo.org/records/10804455. For convenient use with processing codes, data for offline-experiments is available on [https://drive.google.com/drive/folders/1UzkpeC4nHZUtiK4g5u_7QFsoBwdB1MvB?usp=sharing](https://drive.google.com/drive/folders/1UzkpeC4nHZUtiK4g5u_7QFsoBwdB1MvB?usp=drive_link)
 
 ### About the codes:
 1. Python packages required additionally: mne, sklearn. 
