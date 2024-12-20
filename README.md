@@ -56,12 +56,14 @@ In this paper, we propose two decoding methods for c-VEP-BCI with minimal calibr
 ### About the dataset:
 1. All data are restored as PICKLE format, with information of channel names, stimulus sequences and EEG responses involved. 
 2. The subject numbers between offline and online experiments do NOT correspond to each other, while those within the experiments correspond. 
-3. We apologize for missing some online-experiment data collected from S3 due to force majeure factors. 
+3. We apologize for missing some online-experiment data collected from S3 due to force majeure factors.
+4. Whole data can be downloaded on https://zenodo.org/records/10804455. For convenient use with processing codes, data for offline-experiments are aquired on [https://drive.google.com/drive/folders/1UzkpeC4nHZUtiK4g5u_7QFsoBwdB1MvB?usp=sharing](https://drive.google.com/drive/folders/1UzkpeC4nHZUtiK4g5u_7QFsoBwdB1MvB?usp=drive_link)
 
 ### About the codes:
 1. Python packages required additionally: mne, sklearn. 
 2. The codes of the models proposed in the study are  provided as Python Classes in this repository, convenient for plug-and-play code writing and results reproduction. 
-3. In the codes, the abbreviation 'TTCA' serves as the linear-modeling method, 'TTstCCA' serves as the transfer-learning method, and 'TTfbCCA' serves as the linear-modeling based SSVEP decoding method. 
+3. In the codes, the abbreviation 'TTCA' serves as the linear-modeling method, 'TTstCCA' serves as the transfer-learning method, and 'TTfbCCA' serves as the linear-modeling based SSVEP decoding method.
+4. File classification_recon.py contains codes for c-VEP classifications with reconstruction-based methods, file classification_transfer.py contains codes for c-VEP and SSVEP classifications with template-transfer-based methods. We only provide codes for processing offline-experiment data. Codes for processing online-experiment data is coming soon.
 
 # Citation
 
